@@ -13,6 +13,8 @@
   @include defineColorHSL(--cd-color-event-2, 271, 23%, 26%);   // Martinique
   @include defineColorHSL(--cd-color-event-3, 162, 14%, 68%);   // Edward
   @include defineColorHSL(--cd-color-event-4, 31, 89%, 68%);    // Rajah
+  @include defineColorHSL(--cd-color-event-5, 101, 49%, 55%);
+  @include defineColorHSL(--cd-color-event-6, 182, 55%, 58%);  
   @include defineColorHSL(--cd-color-text, 0, 0%, 13%);         // Black
   @include defineColorHSL(--cd-color-border, 0, 0%, 92%);       // Grey
 
@@ -20,7 +22,7 @@
   --font-primary: 'Source Sans Pro', sans-serif;
 
   //schedule template
-  --schedule-rows-number: 19;
+  --schedule-rows-number: 15;
   --schedule-rows-height: 50px;
 }
 
@@ -314,6 +316,16 @@ a {
 .cd-schedule__event [data-event="event-4"],
 .cd-schedule-modal[data-event="event-4"] .cd-schedule-modal__header-bg {
 	background: var(--cd-color-event-4);
+}
+
+.cd-schedule__event [data-event="event-5"],
+.cd-schedule-modal[data-event="event-5"] .cd-schedule-modal__header-bg {
+	background: var(--cd-color-event-5);
+}
+
+.cd-schedule__event [data-event="event-6"],
+.cd-schedule-modal[data-event="event-6"] .cd-schedule-modal__header-bg {
+	background: var(--cd-color-event-6);
 }
 
 .cd-schedule-modal {
