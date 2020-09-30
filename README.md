@@ -2,11 +2,14 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sagnik20/timetable/graphs/commit-activity)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://srmtt.me/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/sagnik20/ama)
-<br>
+[![GitHub issues](https://img.shields.io/github/issues/sagnik20/timetable)](https://github.com/sagnik20/timetable/issues)
+[![GitHub forks](https://img.shields.io/github/forks/sagnik20/timetable?style=social)](https://github.com/sagnik20/timetable/network)
+[![GitHub stars](https://img.shields.io/github/stars/sagnik20/timetable?style=social)](https://github.com/sagnik20/timetable/stargazers)
+<br><br>
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://srmtt.me/)
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://srmtt.me/)
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://srmtt.me/)
- 
+
 
 # Schedule Template
 
